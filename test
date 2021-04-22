@@ -1,0 +1,27 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"lib": [
+			"es2017"
+		],
+		"declaration": true,
+		"removeComments": false,
+		"stripInternal": true,
+		// since 2.3
+		"strict": true,
+		"alwaysStrict": true,
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"strictNullChecks": true,
+		"moduleResolution": "node"
+	},
+	"include": [
+		"./node_modules/three/**/*.ts"
+	],
+	"exclude": [],
+	"semicolon": [
+		true,
+		"always"
+	]
+}

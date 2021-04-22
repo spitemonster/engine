@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/main.scss"],"names":[],"mappings":"AAAA;EACC;EACA;EACA;;;AAGD;EACC;EACA;EACA","file":"main.54166fbf.css","sourceRoot":"..","sourcesContent":["html, body {\n\tmargin: 0;\n\theight: 100%;\n\tbackground: #aaaaaa;\n}\n\ncanvas {\n\theight: 100vh;\n\twidth: 100vw;\n\tdisplay: block;\n}"]}
